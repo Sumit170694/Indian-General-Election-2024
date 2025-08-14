@@ -32,7 +32,7 @@ The dashboard allows users to:
 ## 📊 Features by Dashboard Page
 
 ### **1. Main Navigation Page**
-![Main Page](/main_page.png)  
+![Main Page](/main_Page.png)  
 **Description:**  
 Acts as the **home screen** of the dashboard.  
 - Four main sections: **Overview Analysis**, **State Demographics**, **Political Landscape by State**, **Constituency Analysis**.  
@@ -41,7 +41,7 @@ Acts as the **home screen** of the dashboard.
 ---
 
 ### **2. Overview Analysis**
-![Overview Analysis](/overview.png)  
+![Overview Analysis](/Overview.png)  
 **Description:**  
 Presents the **national-level election summary**.  
 - Seats won by NDA, I.N.D.I.A., and Others with % share.  
@@ -71,7 +71,7 @@ Focuses on **state-specific results**.
 ---
 
 ### **5. Constituency Analysis**
-![Constituency Analysis](/constituency.png)  
+![Constituency Analysis](/Constituency.png)  
 **Description:**  
 Provides **detailed constituency-level results**.  
 - Winning candidate, party, vote share, and total votes.  
@@ -82,7 +82,7 @@ Provides **detailed constituency-level results**.
 ---
 
 ### **6. Details Grid**
-![Details Grid](screenshots/details_grid.png)  
+![Details Grid](Details_grid.png)  
 **Description:**  
 Comprehensive **tabular view of all constituencies**.  
 - Winning and runner-up candidates with party and alliance.  
