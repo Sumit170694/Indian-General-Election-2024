@@ -71,7 +71,7 @@ Focuses on **state-specific results**.
 ---
 
 ### **5. Constituency Analysis**
-![Constituency Analysis](/constituency .png)  
+![Constituency Analysis](/constituency.png)  
 **Description:**  
 Provides **detailed constituency-level results**.  
 - Winning candidate, party, vote share, and total votes.  
